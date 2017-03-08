@@ -1,0 +1,8 @@
+C:\projects\CoreTestApp\bin\Debug\netcoreapp1.1\CoreTestApp.deps.json
+C:\projects\CoreTestApp\bin\Debug\netcoreapp1.1\CoreTestApp.runtimeconfig.json
+C:\projects\CoreTestApp\bin\Debug\netcoreapp1.1\CoreTestApp.runtimeconfig.dev.json
+C:\projects\CoreTestApp\bin\Debug\netcoreapp1.1\CoreTestApp.dll
+C:\projects\CoreTestApp\bin\Debug\netcoreapp1.1\CoreTestApp.pdb
+C:\projects\CoreTestApp\obj\Debug\netcoreapp1.1\CoreTestApp.AssemblyInfo.cs
+C:\projects\CoreTestApp\obj\Debug\netcoreapp1.1\CoreTestApp.dll
+C:\projects\CoreTestApp\obj\Debug\netcoreapp1.1\CoreTestApp.pdb
